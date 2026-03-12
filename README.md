@@ -14,7 +14,7 @@ A lightweight, professional batch script to retrieve and display all saved Wi-Fi
 3. View your saved passwords instantly.
 
 ---
-
+```
 ## 🖥️ Simulation (Example Output)
 
 =====================================================================================================
@@ -36,11 +36,9 @@ A lightweight, professional batch script to retrieve and display all saved Wi-Fi
  [SUCCESS] Total scan finished.
 
  Press any key to continue . . .
-
+```
 ---
 
 ## ⚠️ Disclaimer
 This tool is for educational and administrative purposes only. Only use it on systems you own or have explicit permission to audit.
 
-## ⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
