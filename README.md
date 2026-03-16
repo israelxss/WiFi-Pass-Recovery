@@ -14,9 +14,8 @@ A lightweight, professional batch script to retrieve and display all saved Wi-Fi
 3. View your saved passwords instantly.
 
 ---
-```
 ## 🖥️ Simulation (Example Output)
-
+```
 =====================================================================================================
     WI-FI SAVED PASSWORDS AND NETWORK CONFIGURATION
 =====================================================================================================
