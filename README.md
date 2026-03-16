@@ -4,9 +4,7 @@ A lightweight, professional batch script to retrieve and display all saved Wi-Fi
 
 ## 🚀 Features
 * **Auto-Elevation:** Automatically requests Administrator privileges.
-* **UTF-8 Support:** Correctly displays SSIDs with special characters (Hebrew, Cyrillic, Emojis).
 * **Formatted Output:** Clean, tabular view of Network Name, Password, Authentication, and Cipher.
-* **Efficiency:** Optimized `netsh` queries for fast execution.
 
 ## 🛠️ Usage
 1. Download the `wifi_recovery.bat` file.
