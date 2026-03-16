@@ -7,7 +7,7 @@ A lightweight, professional batch script to retrieve and display all saved Wi-Fi
 * **Formatted Output:** Clean, tabular view of Network Name, Password, Authentication, and Cipher.
 
 ## 🛠️ Usage
-1. Download the `wifi_recovery.bat` file.
+1. Download the `WiFi-Recovery.bat` file.
 2. Right-click and **Run as Administrator** (or let the script prompt you).
 3. View your saved passwords instantly.
 
